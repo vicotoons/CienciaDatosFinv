@@ -1,0 +1,3 @@
+0 Apple_PodredumbreNegra
+1 Apple_Saludable
+2 Apple_Sarna
